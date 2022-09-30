@@ -6,4 +6,5 @@ package com.itheima.pojo;
  */
 public class User {
     private String name;//dfjaslkgfjaeslg
+    private String address;
 }
