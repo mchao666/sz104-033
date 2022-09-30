@@ -5,5 +5,5 @@ package com.itheima.pojo;
  * 日期2022-09-30 20:21
  */
 public class User {
-    private String name;
+    private String name;//dfjaslkgfjaeslg
 }
